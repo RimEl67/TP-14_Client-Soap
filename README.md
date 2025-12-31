@@ -19,6 +19,3 @@ Ce TP a pour objectif de :
 
 ---
 
-<img width="257" height="504" alt="image" src="https://github.com/user-attachments/assets/faaabfb8-7a1c-4db5-8a92-8b7819d15857" />
-<img width="253" height="501" alt="image" src="https://github.com/user-attachments/assets/a455f75d-664d-4a03-95b6-cbf36a93435a" />
-<img width="242" height="460" alt="image" src="https://github.com/user-attachments/assets/2725ac4d-68a6-472b-a519-82ffc7eb6437" />
